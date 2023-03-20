@@ -6,13 +6,6 @@ Created with CodeSandbox
 # Technologies Used
 The following technologies were used in this project:
 
-HTML
-CSS
-JavaScript
-
-# Technologies Used
-The following technologies were used in this project:
-
 HTML,
 CSS,
 JavaScript,
